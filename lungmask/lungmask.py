@@ -23,6 +23,10 @@ model_urls = {
         'https://github.com/JoHof/lungmask/releases/download/v0.0/unet_ltrclobes-3a07043d.pth',
         6,
     ),
+    ('unet', 'R231CovidWeb'): (
+        'https://github.com/JoHof/lungmask/releases/download/v0.0/unet_r231covid-0de78a7e.pth',
+        3,
+    ),
 }
 
 
